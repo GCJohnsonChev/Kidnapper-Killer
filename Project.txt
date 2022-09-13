@@ -1,0 +1,9 @@
+Kidnapper Killer
+
+Custom made device with numerous 360 degree angle
+cameras and a 5g LTE chip and satellite radio connection.
+
+The device reports the exact GPS coordinates every 5 milliseconds to
+a remote server. In panic mode the device records and transmits
+240, 540, 1024x768, 1920x1020 and 4096x4096 resolution the entire area of the device 
+to a remote server. Can be worn as a watch.
